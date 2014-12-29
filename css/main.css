@@ -1,0 +1,40 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.container {
+    background: rgba(0, 255, 245, 0.32);
+    margin: auto;
+    max-width: 800px;
+    padding: 15px;
+}
+
+.content {
+    background: rgba(113, 255, 0, 0.69);
+    min-height: 500px;
+}
+
+.sidebar {
+    background: rgb(208, 157, 255);
+    min-height: 500px;
+    float: right;
+    width: 175px;
+}
+
+.page-heading {
+    background: rgba(255, 0, 0, 0.79);
+}
+
+.post-date {
+
+}
+
+.image {
+    background: gray;
+    height: 200px;
+    width: 300px;
+}
+
+article {
+
+}
