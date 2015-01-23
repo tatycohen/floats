@@ -10,7 +10,6 @@
 
 .box-1 {
     background: red;
-    float: right;
 }
 
 .box-2 {
@@ -22,11 +21,10 @@
 .box-3 {
     background: #0021A5;
     float: right;
-    clear: left;
 }
 
 .box-4 {
     background: #FF4A00;
-    float: right;
+    float: left;
     clear: right;
 }
