@@ -10,6 +10,10 @@ p:first-of-type{
   display: inline;
 }
 
+p:nth-child(5){
+    clear: left;
+}
+
 img {
     width: 400px;
     float: left;
