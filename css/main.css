@@ -1,6 +1,9 @@
+body{
+    margin-top: 20px;
+}
 h1{
     display: inline;
-    float:left;
+    float:right;
 }
 
 p:first-of-type{
@@ -9,5 +12,5 @@ p:first-of-type{
 
 img {
     width: 400px;
-    float: right;
+    float: left;
 }
