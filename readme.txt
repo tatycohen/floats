@@ -1,5 +1,5 @@
 URL: 
-http://tatianacohen.com/MMC6278/hw_floats_cohen_tatiana/
+https://github.com/tatycohen/floats
 
 Resources:
 http://www.w3schools.com/CSS/css_pseudo_elements.asp
