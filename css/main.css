@@ -1,3 +1,4 @@
+
 body{
     margin-top: 20px;
 }
@@ -7,7 +8,7 @@ h1{
 }
 
 p:first-of-type{
-  display: inline;
+    display: inline; 
 }
 
 p:nth-child(5){
@@ -17,4 +18,5 @@ p:nth-child(5){
 img {
     width: 400px;
     float: left;
+    clear:right;
 }
