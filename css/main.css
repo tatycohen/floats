@@ -1,4 +1,13 @@
+h1{
+    display: inline;
+    float:left;
+}
+
+p:first-of-type{
+  display: inline;
+}
+
 img {
     width: 400px;
-    float: left;
+    float: right;
 }
